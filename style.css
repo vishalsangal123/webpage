@@ -1,0 +1,108 @@
+#xyz
+{
+    background-color: #172e52;
+    height:50px;
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: row;
+    flex-direction: row;
+    align-items: stretch;
+}
+#xyz1
+{
+    background-color: #172e52;
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: row;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+    width:100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#xyz2
+{
+    color:white;
+    box-sizing: border-box;
+}
+.btn-primary
+{
+    background-color: #196ea4;
+    margin-left:1.5%;
+    font-weight: bold;
+    border:none;
+    border-radius: 4.5px;
+    display: inline-flex;
+}
+.image
+{
+    
+    height: 100px;
+    width: 100px;
+    flex-direction: row;
+    flex-flow: row;
+    margin-left: 150px;
+    box-sizing: border-box;
+    margin-top: -15px;
+    
+}
+#xyz3
+{
+    display: inline-flex;
+    flex-direction: row;
+    flex-flow: row;
+   
+}
+#xyz3 ul li
+{
+    display: inline-flex;
+    margin-top: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 20px;   
+}
+#xyzaa
+{
+    float: right;
+    margin-left: 450px;
+    box-sizing: border-box;
+}
+a
+{
+  color: black;
+}
+ul
+{
+    display: inline-flex;
+}
+.xyza
+{
+
+    padding-bottom: -35px;
+    margin-top: 15px;
+    margin-left:55px;
+    box-sizing: border-box;
+
+
+}
+#xyzaa
+{
+    margin-left:350px;;
+}
+#xyzaa a
+{
+    margin-left: 25px;
+}
+.nmn
+{
+    border-radius: 30px;
+}
+.bb,.jj
+{
+    display: inline-flex;
+}
